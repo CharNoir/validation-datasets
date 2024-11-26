@@ -1,0 +1,14 @@
+names:
+- bus
+- car
+- truck
+nc: 3
+roboflow:
+  license: CC BY 4.0
+  project: highway-traffic-yphjs
+  url: https://universe.roboflow.com/charnoir/highway-traffic-yphjs/dataset/1
+  version: 1
+  workspace: charnoir
+test: ../test/images
+train: ../train/images
+val: ../valid/images
