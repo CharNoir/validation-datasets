@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>adit_mp4-1791_jpg.rf.73a604980cc0c0855e38b21052c41912.jpg</filename>
+	<path>adit_mp4-1791_jpg.rf.73a604980cc0c0855e38b21052c41912.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>truck</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>449</xmin>
+			<xmax>526</xmax>
+			<ymin>303</ymin>
+			<ymax>395</ymax>
+		</bndbox>
+	</object>
+</annotation>

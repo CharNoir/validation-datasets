@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>malam_04112021_mp4-339_jpg.rf.c28789a4d07f3c2f6b0dd094fe98d124.jpg</filename>
+	<path>malam_04112021_mp4-339_jpg.rf.c28789a4d07f3c2f6b0dd094fe98d124.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>333</xmin>
+			<xmax>361</xmax>
+			<ymin>182</ymin>
+			<ymax>212</ymax>
+		</bndbox>
+	</object>
+</annotation>
